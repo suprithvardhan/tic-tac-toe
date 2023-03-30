@@ -49,4 +49,5 @@ Suprith Vardhan - https://github.com/suprithvardhan
 
 Acknowledgments
 
-Inspired by Kunal kunshawa
+Inspired by Kunal Kushwaha
+
